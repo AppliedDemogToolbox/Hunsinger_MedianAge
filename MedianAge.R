@@ -4,7 +4,7 @@
 ##
 ##EDDIE HUNSINGER, JANUARY 2008 (LAST UPDATED DECEMBER 2018)
 ##http://www.demog.berkeley.edu/~eddieh/
-##edynivn@gmail.com
+##edyhsgr@gmail.com
 ##
 ##IF YOU WOULD LIKE TO USE, SHARE OR REPRODUCE THIS FUNCTION/SCRIPT, BE SURE TO CITE THE SOURCE
 ##
