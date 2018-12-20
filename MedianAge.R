@@ -2,7 +2,7 @@
 ##############################################################################################################################
 ##R CODE TO CALCULATE THE MEDIAN AGE FOR A GIVEN AGE PROFILE
 ##
-##EDDIE HUNSINGER, JANUARY 2008 (LAST UPDATED FEBRUARY 12, 2011)
+##EDDIE HUNSINGER, JANUARY 2008 (LAST UPDATED DECEMBER 2018)
 ##http://www.demog.berkeley.edu/~eddieh/
 ##edynivn@gmail.com
 ##
@@ -36,7 +36,7 @@ water*agesize
 }
 
 ##Read the table of data into R
-data<-read.table(file="http://www.demog.berkeley.edu/~eddieh/AppliedDemographyToolbox/MedianAge/K05.csv",header=TRUE,sep=",")
+data<-read.table(file="https://github.com/AppliedDemogToolbox/Hunsinger_MedianAge/raw/master/K05.csv",header=TRUE,sep=",")
 data
 
 ##Calculate median age for the first column of data
