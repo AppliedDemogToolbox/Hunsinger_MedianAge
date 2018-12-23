@@ -19,7 +19,7 @@
 medage<-function(agegroups,agesize)
 {
 cat<-cumsum(agegroups)
-fish<-((cat[length(agegroups[,]),1]))/2
+fish<-(cat[length(agegroups[,]),1])/2
 foot<-t(agegroups)
 foot<-array(0,length(foot))
 hand<-foot
